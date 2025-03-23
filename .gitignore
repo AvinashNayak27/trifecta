@@ -5,3 +5,18 @@ cdp-server/dist-ssr
 cdp-server/package-lock.json
 
 cdp-server/.env
+
+producthunt-server/node_modules
+producthunt-server/.env
+producthunt-server/package-lock.json
+producthunt-server/yarn.lock
+producthunt-server/Dockerfile
+producthunt-server/.dockerignore
+producthunt-server/fly.toml
+
+marlin-serverless/node_modules
+marlin-serverless/.env
+marlin-serverless/package-lock.json
+marlin-serverless/yarn.lock
+marlin-serverless/Dockerfile
+marlin-serverless/.dockerignore
