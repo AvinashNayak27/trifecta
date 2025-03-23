@@ -5,6 +5,7 @@ cdp-server/dist-ssr
 cdp-server/package-lock.json
 
 cdp-server/.env
+<<<<<<< HEAD
 
 producthunt-server/node_modules
 producthunt-server/.env
@@ -20,3 +21,5 @@ marlin-serverless/package-lock.json
 marlin-serverless/yarn.lock
 marlin-serverless/Dockerfile
 marlin-serverless/.dockerignore
+=======
+>>>>>>> 122b172 (added cdp agent kit)
